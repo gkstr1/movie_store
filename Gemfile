@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'foundation-rails'
-
+gem 'devise'
 
 group :development do
   gem "better_errors"
