@@ -1,5 +1,8 @@
 source 'https://rubygems.org'
 
+gem 'foundation-rails'
+
+
 group :development do
   gem "better_errors"
 end
